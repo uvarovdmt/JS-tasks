@@ -16,4 +16,3 @@ const getVowels = stringToFilter => {
   return extractedVowels;
 }
 
-console.log(getVowels(string));

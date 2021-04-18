@@ -6,5 +6,3 @@ const isHtml = path => {
 
   return pathExt === requiredExt
 }
-
-console.log(isHtml(path));

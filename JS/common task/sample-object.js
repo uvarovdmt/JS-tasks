@@ -16,4 +16,4 @@ const workers = [
     return worthyWorkers;
   };
   
-  console.log(getWorthyWorkers(workers));
+  

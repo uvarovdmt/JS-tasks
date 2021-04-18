@@ -16,4 +16,3 @@ const filterArray = ( arrayToFilter, filterFn ) => {
   return filteredArray;
 }
 
-console.log(filterArray(mixedArray, isEven));
